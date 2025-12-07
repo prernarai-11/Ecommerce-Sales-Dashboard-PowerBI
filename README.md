@@ -35,7 +35,7 @@ It helps analyze key sales metrics, customer behavior, profit trends, and produc
 - Create forecasting models using Power BI  
 - Add profit KPI decomposition tree  
 
-## 🧑‍💻 Author
+## 👧 Author
 Prerna Rai   
 <a href="https://www.linkedin.com/in/prerna-rai-11j/">LinkedIn Profile</a> 
 
